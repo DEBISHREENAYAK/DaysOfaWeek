@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+void main()
 {
   int a,b,c;
   printf("baby,please enter a number between 1 to 7 : ");
